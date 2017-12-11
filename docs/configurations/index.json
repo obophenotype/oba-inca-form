@@ -1,0 +1,8 @@
+{
+  "configNames": [
+    "bio-attribute-ontology"
+  ],
+  "logoImage": "INCA.png",
+  "baseURL": "/oba-inca-form/",
+  "title": "Bio-Attribute Ontology"
+}
